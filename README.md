@@ -8,6 +8,19 @@
 
 I build games, software, and tools.
 
+## Software Development
+
+Rust is the current direction: CLI tools first, systems fundamentals behind them.
+
+| Area | Tools |
+| :--- | :--- |
+| Languages | Rust *(learning)* · Python |
+| Game dev | Godot 4 · GDScript · GDShader |
+| Web | HTML · CSS |
+| Data | SQL |
+| Systems | Linux |
+| Workflow | Git · GitHub |
+
 ## Game Development
 
 Small, complete loops in **Godot** — gameplay systems, shaders, and one LAN-multiplayer experiment so far.
@@ -18,22 +31,13 @@ Small, complete loops in **Godot** — gameplay systems, shaders, and one LAN-mu
 
 Also: [Bound to Survive](https://github.com/Weasert911/Bound-to-Survive) — 90-second flashlight survival · [You Must Eat](https://github.com/Weasert911/You-Must-Eat) — CCTV anomaly demo.
 
-## Software Development
-
-Rust is the current direction: CLI tools first, systems fundamentals behind them. Python, HTML/CSS, SQL, Linux, and Git support the work.
-
-- **[job-ready-roadmap](https://github.com/Weasert911/job-ready-roadmap)** — the working system: phases, weekly deliverables, and evidence rules for the Rust + TypeScript sprint.
-- First CLI builds land here as separate repos when they run.
-
 ## Currently Exploring
 
-- **Rust** — fundamentals → first CLI tools
-- **Systems** — processes, memory, async
-- **Tools** — utilities I actually need
-- **Games** — the X slice; herding and survival loops
+Rust fundamentals on the way to CLI tools and systems work, with the X slice and the smaller game loops running alongside.
 
 ## Connect
 
 - GitHub: [Weasert911](https://github.com/Weasert911)
+- X: [@weasertishere](https://x.com/weasertishere)
 
 Issues or discussions on any project reach me fastest.
