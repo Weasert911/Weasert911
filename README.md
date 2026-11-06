@@ -1,25 +1,39 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Weasert — game development and software development" width="100%">
+</p>
+
 # Weasert
 
-Independent developer building small, complete software — tools, systems, and games.
+`Game Development / Software Development`
 
-## Now
+I build games, software, and tools.
 
-- **Rust** — one project per topic, working toward CLI tooling and systems fundamentals ([roadmap](https://github.com/Weasert911/job-ready-roadmap))
-- **Godot 4** — shipping game prototypes in GDScript and GDShader
-- **The rule** — finish the loop before the polish
+## Game Development
 
-## Technology
+Small, complete loops in **Godot** — gameplay systems, shaders, and one LAN-multiplayer experiment so far.
 
-`Rust` · `GDScript` · `GDShader` · `Godot 4` · `Git`
+- **[Trilink](https://github.com/Weasert911/tri-link)** — two-player arena fighter. Matching colors let you hit, breaking them lets you phase. Ships a Windows build, a website, and automated tests.
+- **[Monster's Shephard](https://github.com/Weasert911/GIC-GJ-Five-Monsters-Shephard)** — Godot India Community Game Jam 5 entry: trigger monster charges with the matching horn. Three tiers, one run.
+- **[X](https://github.com/Weasert911/X)** — in development: a narrative stealth-FPS built design-first — full GDD suite, playable slice landing system by system.
 
-## Selected work
+Also: [Bound to Survive](https://github.com/Weasert911/Bound-to-Survive) — 90-second flashlight survival · [You Must Eat](https://github.com/Weasert911/You-Must-Eat) — CCTV anomaly demo.
 
-- **[Trilink](https://github.com/Weasert911/tri-link)** — two-player arena fighter: matching color lets you hit, breaking it lets you phase. Website, Windows build, tests.
-- **[X](https://github.com/Weasert911/X)** — design-first repo for *YOU MUST EAT*, a narrative stealth-FPS: full GDD suite plus a growing weapon-and-movement slice.
-- **[Monster's Shephard](https://github.com/Weasert911/GIC-GJ-Five-Monsters-Shephard)** — color-matching herding survival; Godot India Community Game Jam 5 entry, playable from source.
-- **[Bound to Survive](https://github.com/Weasert911/Bound-to-Survive)** — ninety seconds, one flashlight, one escalating ghost.
-- **[You Must Eat](https://github.com/Weasert911/You-Must-Eat)** — a surveillance-loop demo: watch the cameras, catch the anomalies.
+## Software Development
 
-## Contact
+Rust is the current direction: CLI tools first, systems fundamentals behind them. Python, HTML/CSS, SQL, Linux, and Git support the work.
 
-Fastest reach: open an issue or a discussion on any project above.
+- **[job-ready-roadmap](https://github.com/Weasert911/job-ready-roadmap)** — the working system: phases, weekly deliverables, and evidence rules for the Rust + TypeScript sprint.
+- First CLI builds land here as separate repos when they run.
+
+## Currently Exploring
+
+- **Rust** — fundamentals → first CLI tools
+- **Systems** — processes, memory, async
+- **Tools** — utilities I actually need
+- **Games** — the X slice; herding and survival loops
+
+## Connect
+
+- GitHub: [Weasert911](https://github.com/Weasert911)
+
+Issues or discussions on any project reach me fastest.
